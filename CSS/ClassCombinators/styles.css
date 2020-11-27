@@ -1,0 +1,19 @@
+/* cerca de */
+/* h2 + p {
+  color: orange;
+} */
+
+/* general */
+/* h2 ~ p {
+  color: red;
+} */
+
+/* hijo directo */
+/* div > p {
+  color: blue;
+} */
+
+/* padre */
+/* div p {
+  color: blue;
+} */
