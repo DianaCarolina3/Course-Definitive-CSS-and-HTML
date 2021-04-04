@@ -1,2 +1,2 @@
-# Course-Definitive-CSS-and-HTML
-This is a practice course HTML and CSS 
+# Definitive-Course-CSS-and-HTML
+Definitive course css and html
